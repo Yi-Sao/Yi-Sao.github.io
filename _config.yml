@@ -5,7 +5,7 @@ title: Yi_Sao Blog
 description: Yi_Sao的个人博客
 keywords: YiSao,Blog,Git,Markdown,C,C++,C/C++,Linux
 author: Yi_Sao
-# footerText: 'Copyright © 2016 皖ICP备16016174号'
+footerText: 'Copyright © 2016 皖ICP备16016174号'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
