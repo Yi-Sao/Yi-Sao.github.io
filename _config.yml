@@ -1,7 +1,7 @@
 encoding: utf-8
 
 # SEO相关信息
-title: Yi_Sao Blog
+title: Yi_Sao's Blog
 description: Yi_Sao的个人博客
 keywords: YiSao,Blog,Git,Markdown,C,C++,C/C++,Linux
 author: Yi_Sao
@@ -17,11 +17,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-# domainUrl: 'http://Yi-Sao.github.io'
+# domainUrl: 'http://Yi-Sao.gitee.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://support.qq.com/product/377752
 
 # 菜单
 menu:
