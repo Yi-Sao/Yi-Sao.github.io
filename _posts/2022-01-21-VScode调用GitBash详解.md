@@ -1,4 +1,9 @@
-# VScode调用GitBash教程~[2022.1.21]~
+---
+layout: mypost
+title: VScode调用GitBash教程
+categories: [myconfig]
+---
+
 最近学习了如何使用Git管理个人代码和笔记，也试着使用了几天Git，感觉使用Git来管理代码和笔记真的很是方便，
 
 好处也显而易见，不用太过担心代码丢失，也不用随时随地带个U盘，只要有网就能对自己的代码和笔记进行访问和管
